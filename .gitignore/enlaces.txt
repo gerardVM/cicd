@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/peladonerd/hola-docker/master/Dockerfile
+https://raw.githubusercontent.com/peladonerd/hola-docker/master/docker-compose.yaml
+https://raw.githubusercontent.com/peladonerd/hola-docker/master/index.html
